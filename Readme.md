@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[HomeController.cs](./CS/SummaryCustomDataBinding/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/SummaryCustomDataBinding/Controllers/HomeController.vb))**
+* [CustomBindingModel.cs](./CS/SummaryCustomDataBinding/Models/CustomBindingModel.cs) (VB: [CustomBindingModel.vb](./VB/SummaryCustomDataBinding/Models/CustomBindingModel.vb))
+* [_GridViewPartial.cshtml](./CS/SummaryCustomDataBinding/Views/Home/_GridViewPartial.cshtml)
+* [Index.cshtml](./CS/SummaryCustomDataBinding/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - How to use a built-in Context Menu to display summaries in Custom Binding mode
 
 
