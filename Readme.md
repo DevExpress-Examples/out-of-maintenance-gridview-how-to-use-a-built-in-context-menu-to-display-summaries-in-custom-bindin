@@ -7,6 +7,9 @@
 * [Index.cshtml](./CS/SummaryCustomDataBinding/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to use a built-in Context Menu to display summaries in Custom Binding mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t243497)**
+<!-- run online end -->
 
 
 <p>Having researched this scenario, we found that it's impossible to support it out of the box, since it requires implementing a separate action for the ContextMenu features. This example illustrates how to implement this scenario using custom callbacks: <br />1) Handle the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridView_ContextMenuItemClicktopic">ASPxGridView.ContextMenuItemClick</a> event to intercept the default logic and send a custom callback using <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMVCScriptsMVCxClientGridView_PerformCallbacktopic">MVCxClientGridView.PerformCallback</a> : </p>
