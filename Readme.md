@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # GridView - How to use a built-in Context Menu to display summaries in Custom Binding mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t243497)**
+**[[Run Online]](https://codecentral.devexpress.com/t243497/)**
 <!-- run online end -->
 
 
